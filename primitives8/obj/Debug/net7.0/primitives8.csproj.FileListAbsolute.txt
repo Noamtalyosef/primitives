@@ -1,0 +1,14 @@
+/home/noam/programing/primitives/primitives8/obj/Debug/net7.0/primitives8.GeneratedMSBuildEditorConfig.editorconfig
+/home/noam/programing/primitives/primitives8/obj/Debug/net7.0/primitives8.AssemblyInfoInputs.cache
+/home/noam/programing/primitives/primitives8/obj/Debug/net7.0/primitives8.AssemblyInfo.cs
+/home/noam/programing/primitives/primitives8/obj/Debug/net7.0/primitives8.csproj.CoreCompileInputs.cache
+/home/noam/programing/primitives/primitives8/bin/Debug/net7.0/primitives8
+/home/noam/programing/primitives/primitives8/bin/Debug/net7.0/primitives8.deps.json
+/home/noam/programing/primitives/primitives8/bin/Debug/net7.0/primitives8.runtimeconfig.json
+/home/noam/programing/primitives/primitives8/bin/Debug/net7.0/primitives8.dll
+/home/noam/programing/primitives/primitives8/bin/Debug/net7.0/primitives8.pdb
+/home/noam/programing/primitives/primitives8/obj/Debug/net7.0/primitives8.dll
+/home/noam/programing/primitives/primitives8/obj/Debug/net7.0/refint/primitives8.dll
+/home/noam/programing/primitives/primitives8/obj/Debug/net7.0/primitives8.pdb
+/home/noam/programing/primitives/primitives8/obj/Debug/net7.0/primitives8.genruntimeconfig.cache
+/home/noam/programing/primitives/primitives8/obj/Debug/net7.0/ref/primitives8.dll
